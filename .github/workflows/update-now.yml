@@ -8,4 +8,4 @@ jobs:
     uses: 0xAllow/github-3d-metrics/.github/workflows/update-reusable.yml@main
     with:
       username: "0xAllow"
-      options: '{"view":"combined","theme":"neon"}'
+      options: '{"view":"constellation","theme":"neon"}'
