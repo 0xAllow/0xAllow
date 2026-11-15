@@ -8,6 +8,4 @@ Sharing insights, ideas and forward-thinking solutions to build a safer, smarter
 **Securing innovation. Protecting the future.**
 
 ---
-
-
 ![GitHub 3D Metrics](./assets/github-3d-metrics.svg)
