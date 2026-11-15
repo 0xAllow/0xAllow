@@ -1,0 +1,11 @@
+name: Update Now
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    uses: 0xAllow/github-3d-metrics/.github/workflows/update-reusable.yml@main
+    with:
+      username: "0xAllow"
+      options: '{"view":"combined","theme":"neon"}'
